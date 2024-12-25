@@ -15,8 +15,8 @@
 
 ## Usage
 - Use `python main.py` or run it manually by double clicking.
-- Put your token in the '.env' file.
-- Set up the nuker using the 'config.json' file.
+- Rename the `dotenv.example` file to `.env` and replace the `DISCORD_TOKEN` value with your Bot token!
+- Set up the nuker using the `config.json` file.
 
 ## Help
 - This does not require proxies.
